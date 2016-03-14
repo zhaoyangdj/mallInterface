@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mallInterface:war">
+    <output-path>$PROJECT_DIR$/build</output-path>
+    <root id="archive" name="mallInterface-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mallInterface:war exploded" />
+    </root>
+  </artifact>
+</component>
